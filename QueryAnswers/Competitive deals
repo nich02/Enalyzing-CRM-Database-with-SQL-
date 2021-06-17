@@ -1,0 +1,1 @@
+SELECT Account, SalesAgent, DealStage, Product, CloseValue FROM dbo.sales WHERE CloseValue BETWEEN 1000 AND 2000;
