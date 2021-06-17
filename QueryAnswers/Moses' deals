@@ -1,0 +1,2 @@
+Display the total number of deals Moses Frase made in the year 2016 and 2017?
+SELECT COUNT(*) FROM dbo.sales WHERE SalesAgent = 'Moses Frase'
