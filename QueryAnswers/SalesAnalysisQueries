@@ -1,1 +1,1 @@
-
+SELECT COUNT(*) FROM dbo.sales WHERE SalesAgent = 'Moses Frase'
