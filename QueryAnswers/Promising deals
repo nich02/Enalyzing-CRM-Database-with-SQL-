@@ -1,0 +1,1 @@
+SELECT * FROM dbo.sales WHERE DealStage = 'In Progress' AND DealStage = 'Won'
