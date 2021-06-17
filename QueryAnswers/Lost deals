@@ -1,0 +1,1 @@
+SELECT COUNT(DealStage) FROM dbo.sales WHERE DealStage = 'Lost'
