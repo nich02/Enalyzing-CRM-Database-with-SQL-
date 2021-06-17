@@ -1,0 +1,2 @@
+Get and display ONLY the won deals over the two business years
+SELECT * FROM dbo.sales WHERE DealStage = 'Won'
