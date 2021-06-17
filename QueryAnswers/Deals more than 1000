@@ -1,0 +1,2 @@
+Select and display ALL deals which closed the year with value more than 1000 in their ascending order. 
+SELECT * FROM dbo.sales WHERE CloseValue < 1000 ORDER BY CloseValue ASC
