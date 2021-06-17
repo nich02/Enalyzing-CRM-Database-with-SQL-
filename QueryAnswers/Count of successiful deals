@@ -1,0 +1,1 @@
+SELECT COUNT (*) FROM dbo.sales WHERE DealStage = 'Won'
