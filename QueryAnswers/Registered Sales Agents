@@ -1,0 +1,1 @@
+SELECT COUNT(DISTINCT SalesAgent) FROM dbo.sales AS RegisteredSalesAgents
